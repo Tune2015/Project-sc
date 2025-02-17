@@ -1,5 +1,5 @@
 // Zoo.h
-#ifndef ZOO_H
+#ifndef ZOO.H
 #define ZOO_H
 
 #include "Animal.h"
